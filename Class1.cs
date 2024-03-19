@@ -13,6 +13,7 @@ namespace PIS
         public void Prazna_metoda() {
         
             //metoda dodana preko VS
+            //popravak gabrielinog buga
         }
         
        
