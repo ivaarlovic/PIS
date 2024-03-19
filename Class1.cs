@@ -8,7 +8,16 @@ namespace PIS
 {
     internal class Class1
     {
-         public Class1() { }
-        public void Prazna_metoda() { }
+
+        public Class1() { }
+        public void Prazna_metoda() {
+        
+            //metoda dodana preko VS
+        }
+        
+       
+        public void Praznametoda() {
+        //metoda dodana preko githuba
+        }
     }
 }
